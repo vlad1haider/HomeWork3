@@ -1,0 +1,11 @@
+<Page x:Class="HumanResourcesManagement.HomePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="HomePage">
+    <Grid>
+        <TextBlock FontSize="24" Text="Welcome to the Human Resources Management System" 
+                   HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBlock Text="This application allows you to manage employee data." 
+                   HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,50"/>
+    </Grid>
+</Page>
